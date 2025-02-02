@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gtrecicla/static/css/main.e6c13ad2.css",
+    "main.js": "/gtrecicla/static/js/main.56bcb153.js",
+    "static/js/453.96fc9595.chunk.js": "/gtrecicla/static/js/453.96fc9595.chunk.js",
+    "index.html": "/gtrecicla/index.html",
+    "main.e6c13ad2.css.map": "/gtrecicla/static/css/main.e6c13ad2.css.map",
+    "main.56bcb153.js.map": "/gtrecicla/static/js/main.56bcb153.js.map",
+    "453.96fc9595.chunk.js.map": "/gtrecicla/static/js/453.96fc9595.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.56bcb153.js"
+  ]
+}
