@@ -75,7 +75,9 @@ const WasteClassification = () => {
           style={{ padding: "10px", width: "300px", fontSize: "16px" }}
         />
         {suggestions.length > 0 && (
-          <ul style={{ position: "absolute", background: "white", border: "1px solid #ccc", width: "300px", listStyle: "none", padding: "5px", margin: 0 }}>
+          <ul style={{position: "absolute", background: "white", border: "1px solid #ccc", listStyle: "none", padding: "5px", margin: 0, left: "320px", // Adjust position to the right of the inputtop: "0", // Align with the input fieldwidth: "200px" // Adjust width as needed
+          }}
+        >
             {suggestions.map((suggestion, index) => (
               <li 
                 key={index} 
